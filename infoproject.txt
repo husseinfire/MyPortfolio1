@@ -1,0 +1,3 @@
+entitybase(id)
+owner (id,name,avantar,profil)
+prtfolioItem(id,name,pictute,description)
